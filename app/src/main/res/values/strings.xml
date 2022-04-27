@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TReeSAviour</string>
+    <string name="treeimage">It contains a sample of tree png image</string>
+    <string name="head">App to motivate you to save trees.🌳🌴🌲</string>
+</resources>
